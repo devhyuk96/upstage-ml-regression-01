@@ -37,16 +37,22 @@
 
 ### Overview
 
-- _Write competition information_
+- 다양한 부동산 관련 의사결정을 돕고자 하는 부동산 실거래가를 예측하는 모델을 개발하는 것
+- 서울시 한정 아파트 가격 예측
+- 정확하고 일반화된 모델을 개발하여 아파트 시장의 동향을 미리 예측하는 것
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- Jan 08 ~ 14, 2024 - Making A Group
+- Jan 15, 2024 - Start Competition
+- Jan 15 ~ 20, 2024 - Data Collection
+- Jan 18 ~ 21, 2024 - Data EDA
+- Jan 21 ~ 25, 2024 - Modeling & Tuning
+- Jan 25 ~ 26, 2024 - Report Writing
 
 ### Evaluation
 
-- _Write how to evaluate model_
+- RMSE 지표를 활용
 
 ## 2. Components
 
