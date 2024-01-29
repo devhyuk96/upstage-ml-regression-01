@@ -57,7 +57,8 @@
 
 ### Directory
 
-- _Insert your directory structure_
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/cc50aae1-aebd-4fe0-8d1e-30f6c576b236)
+
 
 ## 3. Data descrption
 
