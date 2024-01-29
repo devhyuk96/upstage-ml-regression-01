@@ -63,7 +63,29 @@
 
 ### Dataset overview
 
-- _Explain using data_
+주요 데이터는 .csv 형태로 제공되며, 서울시 아파트의 각 시점에서의 거래금액(만원)을 예측하는 것이 목표입니다.
+
+학습 데이터는 아래와 같이 1,118,822개이며, 예측해야 할 거래금액(target)을 포함한 52개의 아파트의 정보에 대한 변수와 거래시점에 대한 변수가 주어집니다.
+
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/9c3d2f9e-ac4c-4f1f-be3c-3f2447dfcc9a)
+
+학습 데이터의 기간은 2007년 1월 1일부터 2023년 6월 30일까지이며, 각 변수 명이 한글로 되어있어 어떤 정보를 나타내는 변수인지 쉽게 확인할 수 있습니다.
+
+예시)
+> - 시군구 : “서울특별시 강남구 개포동” 과 같이 주소에 대한 정보입니다.
+> - 아파트명 : “개포더샵트리에”와 같이 아파트명에 대한 정보입니다.
+> - 전용면적(㎡) : “108.2017”와 같이 매매대상의 전용면적에 대한 정보입니다.
+> - 건축년도 : “2021”과 같이 아파트의 건축 연도를 나타내는 정보입니다.
+
+각 변수들은 아래와 같은 결측치 비율을 가지고 있습니다.
+
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/a4ba70e3-f9f2-47dd-8d3f-aae5ad104bac)
+
+아파트의 매매가를 결정하는데에 교통적인 요소가 영향을 줄 수 있기에 추가 데이터로 서울시 지하철역, 서울시 버스정류장의 정보가 주어집니다. 
+
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/d1f86dad-e331-4a13-b010-bcb2cbd63312)
+
+추가 데이터는 위도와 경도, 좌표 X와 좌표Y와 같이 거리에 대한 정보가 포함되어 있으며, 이를 활용하여 학습 데이터와 함께 사용할 수 있습니다. 
 
 ### EDA
 
@@ -87,17 +109,18 @@
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/d687d43e-b43c-4ba3-abb3-cab2f925b939)
+
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+- [1조 minus의 ppt](https://docs.google.com/presentation/d/1LmVvBo0ZpkWONN22q8OppNOOL5F3Ds9N/edit)
 
 ## etc
 
 ### Meeting Log
 
+- 전체적인 내용은 [Notion](https://www.notion.so/1-c35e90521c3e445888e2218d9871acf5)에서 확인하실 수 있습니다.
 - Jan 21 ~ Jan 26 : Offline Meeting
 
 ### Reference
