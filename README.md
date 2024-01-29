@@ -49,6 +49,8 @@
 ### Evaluation
 
 - RMSE 지표를 활용
+  ![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/5cfa5fdc-7256-4972-98af-f15ad54f8361)
+
 
 ## 2. Components
 
