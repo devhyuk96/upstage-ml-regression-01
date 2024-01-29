@@ -98,7 +98,7 @@
 
 ### Meeting Log
 
-- Jan 21 ~ Jan 26 : 동혁이네 Offline Meeting
+- Jan 21 ~ Jan 26 : Offline Meeting
 
 ### Reference
 
