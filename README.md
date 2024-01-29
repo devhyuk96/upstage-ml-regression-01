@@ -98,8 +98,13 @@
 
 ### Meeting Log
 
-- _Insert your meeting log link like Notion or Google Docs_
+- Jan 21 ~ Jan 26 : 동혁이네 Offline Meeting
 
 ### Reference
 
-- _Insert related reference_
+- [서울시 역사마스터 정보](https://data.seoul.go.kr/dataList/OA-21232/S/1/datasetView.do)
+- [아파트 브랜드 top24](https://brikorea.com/bbs/board.php?bo_table=rep_1&wr_id=2584&sfl=wr_subject&stx=%EC%95%84%ED%8C%8C%ED%8A%B8&sop=and)
+- [선거 지지율 기사](https://www.joongang.co.kr/article/25055110#home)
+- [학군 기사](https://www.sentv.co.kr/news/view/669378)
+- [학교별 학급수](https://www.schoolinfo.go.kr/ng/go/pnnggo_a01_l2.do)
+- [서울시 지하철 유동인구](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
