@@ -174,7 +174,6 @@
 
 ![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/d687d43e-b43c-4ba3-abb3-cab2f925b939)
 
-
 ### Presentation
 
 - [1조 minus의 ppt](https://docs.google.com/presentation/d/1LmVvBo0ZpkWONN22q8OppNOOL5F3Ds9N/edit)
