@@ -115,30 +115,30 @@
 
 - Strategy I
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/196bd8a0-92e4-497c-81a3-6aba1e910e55)
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/ed9f511a-4b41-4f04-a172-e35ae2082fcb)
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/d6b102f0-0e45-40cd-9ab0-16448c33e4ec)  
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/6fd35ee5-e4d6-4591-bb33-633b56ce8b5b)
 
 - Strategy II
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/cea076f6-7c44-4486-a770-b7611f11366a)
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/e9ccdf76-1c6e-4afb-a642-5a4786ffeda1)
  
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/12e11aa1-3877-464b-8a68-8ff5b0bea3b5)  
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/6786f014-1c70-4fda-a32d-7c4cbcbe035a)
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/22472ebf-aad0-420f-ae23-674dab973800)  
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/0eaa7c86-9cdd-47fe-8dbe-47d8403c6e8f)
 
 
 ### Feature engineering
 
 - Strategy I
   
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/12c554c8-ab5d-40c4-8b26-d53cea6b881b)  
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/e45843f4-8716-49c9-a2f9-a7adb8cdafdb)
 
 - Strategy II
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/0636e9cb-1306-4f5d-8507-433961f2a5cf)
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/91efe0d5-429a-440b-b2de-f721b13da539)
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/ef5b40cc-eb56-4036-8c03-9b2619f9e017)
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/b4329e18-621e-4cd7-af7c-6967d237b880)
 
 
 ## 4. Modeling
@@ -147,13 +147,13 @@
 
 - Strategy I
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/24264193-2515-49cc-a3de-085833da8dee)
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/ec35b877-7333-4bb3-b500-4c05a8d4478d)
 
 - Strategy II
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/322d2fd7-ddc1-4660-ac52-627d7978b2a2)
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/d725ff11-f1f5-4a01-beca-e6fc6c2039d7)
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/fc63fdbd-eef2-4ca8-a084-9ea60323c91e)
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/aa61677a-f8e0-4d24-b482-73b38930dc74)
 
 
 ### Modeling Process
@@ -165,7 +165,7 @@
 
 - Strategy II
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/0409461c-9031-4f79-9ef9-2aa54d0f3784)
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/a707928f-81e2-4a46-9c2b-b3f539585884)
 
 
 ## 5. Result
