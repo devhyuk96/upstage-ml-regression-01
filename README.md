@@ -94,22 +94,21 @@
 
 ![(Template)  패스트캠퍼스  Upstage AI Lab 1기_경진대회 발표자료 pptx의 사본 pptx](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/5d9c6ab4-dbe3-4f19-afea-ad6f20295be6)
 
+![(Template)  패스트캠퍼스  Upstage AI Lab 1기_경진대회 발표자료 pptx의 사본 pptx (4)](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/aacd6d1b-aa6a-408b-b51b-6ec9d08dee90)
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/0634bfbe-f9cd-4dca-b84f-038d3b60df73)  
+![(Template)  패스트캠퍼스  Upstage AI Lab 1기_경진대회 발표자료 pptx의 사본 pptx (3)](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/85150fdf-4106-4da0-a3a6-974592f16511)
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/bc4d4085-8dca-4202-a85d-4aaa80772234)  
+![(Template)  패스트캠퍼스  Upstage AI Lab 1기_경진대회 발표자료 pptx의 사본 pptx (2)](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/752ce1e3-e684-4f46-a12c-60dc2eca35f6)
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/d30e04e7-b273-4de2-8fe5-99a7d93e0be8)  
-
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/2dc1c7e1-1dae-4e37-9bb1-f4f5af207a20)  
+![(Template)  패스트캠퍼스  Upstage AI Lab 1기_경진대회 발표자료 pptx의 사본 pptx (1)](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/d5961dc0-bc64-44c4-b9f6-ffdc529d6dad)
 
 - Strategy I
-  
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/550ea027-ef41-4625-972b-b9016b067b20)
+
+![(Template)  패스트캠퍼스  Upstage AI Lab 1기_경진대회 발표자료 pptx의 사본 pptx (5)](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/b3211fe9-ad74-4630-bfa0-72dc53b5c4fa)
 
 - Strategy II
   
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/d7fa3138-afa8-4aac-a900-2237281d1fab)  
+![(Template)  패스트캠퍼스  Upstage AI Lab 1기_경진대회 발표자료 pptx의 사본 pptx (6)](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/eb924a68-51c5-41bc-acad-ca33d926ae42)
 
 
 ### Data Preprocessing
