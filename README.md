@@ -92,7 +92,8 @@
 
 ### EDA
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/e2c3d1c9-dd41-4d42-a7a6-140dfe6140eb)  
+![(Template)  패스트캠퍼스  Upstage AI Lab 1기_경진대회 발표자료 pptx의 사본 pptx](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/5d9c6ab4-dbe3-4f19-afea-ad6f20295be6)
+
 
 ![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/0634bfbe-f9cd-4dca-b84f-038d3b60df73)  
 
