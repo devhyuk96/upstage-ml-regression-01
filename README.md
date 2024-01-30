@@ -160,6 +160,8 @@
 
 - Strategy I
 
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/94885063/8679f49f-7fce-42c6-a304-359c9f291d79)
+
 
 - Strategy II
 
