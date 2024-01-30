@@ -28,6 +28,7 @@
     <td> <div align=center> <a href="https://github.com/HyeokHam"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     </tr>
 </table>
+
       
 ## 1. Competiton Info
 
@@ -59,6 +60,7 @@
 
 ![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/cc50aae1-aebd-4fe0-8d1e-30f6c576b236)
 
+
 ## 3. Data descrption
 
 ### Dataset overview
@@ -87,6 +89,7 @@
 
 추가 데이터는 위도와 경도, 좌표 X와 좌표Y와 같이 거리에 대한 정보가 포함되어 있으며, 이를 활용하여 학습 데이터와 함께 사용할 수 있습니다. 
 
+
 ### EDA
 
 ![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/e2c3d1c9-dd41-4d42-a7a6-140dfe6140eb)  
@@ -103,18 +106,16 @@
   
 ![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/550ea027-ef41-4625-972b-b9016b067b20)
 
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/196bd8a0-92e4-497c-81a3-6aba1e910e55)
-
 - Strategy II
   
 ![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/d7fa3138-afa8-4aac-a900-2237281d1fab)  
 
 
-### Feature engineering
+### Data Preprocessing
 
 - Strategy I
-  
-![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/12c554c8-ab5d-40c4-8b26-d53cea6b881b)  
+
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/196bd8a0-92e4-497c-81a3-6aba1e910e55)
 
 ![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/d6b102f0-0e45-40cd-9ab0-16448c33e4ec)  
 
@@ -126,15 +127,44 @@
 
 ![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/22472ebf-aad0-420f-ae23-674dab973800)  
 
+
+### Feature engineering
+
+- Strategy I
+  
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/12c554c8-ab5d-40c4-8b26-d53cea6b881b)  
+
+- Strategy II
+
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/0636e9cb-1306-4f5d-8507-433961f2a5cf)
+
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/ef5b40cc-eb56-4036-8c03-9b2619f9e017)
+
+
 ## 4. Modeling
 
-### Model descrition
+### Model description
 
-- _Write model information and why your select this model_
+- Strategy I
+
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/24264193-2515-49cc-a3de-085833da8dee)
+
+- Strategy II
+
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/322d2fd7-ddc1-4660-ac52-627d7978b2a2)
+
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/fc63fdbd-eef2-4ca8-a084-9ea60323c91e)
+
 
 ### Modeling Process
 
-- _Write model train and test process with capture_
+- Strategy I
+
+
+- Strategy II
+
+![image](https://github.com/UpstageAILab/upstage-ml-regression-01/assets/147508048/0409461c-9031-4f79-9ef9-2aa54d0f3784)
+
 
 ## 5. Result
 
